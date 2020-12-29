@@ -1,35 +1,57 @@
-h1 {
+.name {
   text-align: center;
-  margin-top: 230px;
-  font-size: 90px;
+  font-size: 20px;
+  word-spacing: 120px;
+  color: #808080;
 }
 
-h1 span:nth-child(1) {
-    color: #4383f7;
-}
-h1 span:nth-child(2) {
-    color: #f04339;
-}
-h1 span:nth-child(3) {
-    color: #ffbd06;
-}
-h1 span:nth-child(4) {
-    color: #30ab52;
-}
-h1 span:nth-child(5) {
-    color: #4383f7;
-}
-h1 span:nth-child(6) {
-    color: #30ab52;
-}
-h1 span:nth-child(7) {
-    color: #f04339;
-}
-h1 span:nth-child(8) {
-    color: #ffbd06;
+.button {
+  word-spacing: normal;
+  color: #808080;
+  text-align: center;
+  font-size: 20px;
+  margin-top: 20px;
+  border: 1px solid
 }
 
-.search-bar {
-  width: 500px;
-  
+h1 {
+  color: #fff;
+  text-align: center;
+  font-size: 3.5vw;
+  font-family: Bebas Neue; <-폰트 변경-->
+}
+
+body {
+  background-color: #141414;
+}
+
+.netflix-logo {
+	width: 150px;
+}
+
+.profile {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  display: block;
+  text-align: center;
+}
+
+.groot {
+  margin-right: 20px;
+}
+
+.gandalf {
+  margin-right: 20px;
+}
+
+.max {
+  margin-right: 20px;
+}
+
+.frank {
+  margin-right: 20px;
+}
+
+.main {
+  margin-top: 170px;
 }
