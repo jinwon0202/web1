@@ -1,17 +1,10 @@
-.name {
-  text-align: center;
-  font-size: 20px;
-  word-spacing: 120px;
-  color: #808080;
-}
-
 .button {
-  word-spacing: normal;
-  color: #808080;
-  text-align: center;
+  color: grey;
   font-size: 20px;
-  margin-top: 20px;
-  border: 1px solid
+  border: 1px solid grey;
+  text-align: center;
+  display: inline-block;
+  margin-left: 650px;
 }
 
 h1 {
@@ -32,23 +25,12 @@ body {
 .profile {
   margin-top: 2em;
   margin-bottom: 2em;
-  display: block;
+  font-size: 20px;
+  color: #808080;
   text-align: center;
 }
 
-.groot {
-  margin-right: 20px;
-}
-
-.gandalf {
-  margin-right: 20px;
-}
-
-.max {
-  margin-right: 20px;
-}
-
-.frank {
+img {
   margin-right: 20px;
 }
 
